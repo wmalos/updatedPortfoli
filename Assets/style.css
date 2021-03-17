@@ -23,3 +23,8 @@ nav a {
     color: white;
     margin-bottom: 10px;
 }
+
+.projects img:hover {
+    opacity: .5;
+    zoom: 1.5;
+}
