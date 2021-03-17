@@ -1,0 +1,25 @@
+.header {
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: cadetblue;
+    color: white;
+}
+
+body {
+    background-color: #e3f2fd;
+}
+
+nav {
+    padding: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+nav a {
+    display: flex;
+    justify-content: baseline;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+}
