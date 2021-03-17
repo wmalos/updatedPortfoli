@@ -24,6 +24,15 @@ nav a {
     margin-bottom: 10px;
 }
 
+div .about-me {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+div .about-me img {
+    max-height: 500px;
+    max-width: 400px;
+}
+
 .projects img:hover {
     opacity: .5;
     zoom: 1.5;
