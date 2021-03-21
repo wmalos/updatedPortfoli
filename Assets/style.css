@@ -43,3 +43,13 @@ div .about-me img {
     font-family: 'Times New Roman', Times, serif;
     color: black;
 }
+
+@media screen and (max-width: 860px) {
+    body {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+        align-content: space-between;
+    }
+}
