@@ -52,4 +52,10 @@ div .about-me img {
         justify-content: flex-end;
         align-content: space-between;
     }
+
+    div .about-me img {
+        margin-left: 0px;
+        max-width: 400px;
+        max-height: 300px;
+    }
 }
